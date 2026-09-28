@@ -1,0 +1,1 @@
+export type Spot={id:number;name:string;district:string;category:string;image:string;images?:string[];rating:number;specialty:string;description?:string;bestTime:string;budget:string;location:string;activities:string[];travel:{bus?:string;train?:string;air?:string};latitude:number;longitude:number;};
